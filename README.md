@@ -65,5 +65,3 @@ Para ejecutar los ejercicios:
 ## 6. Conclusión
 
 El proyecto **Ejercicios de Lógica en JavaScript** es una herramienta educativa útil para poner en práctica conceptos de programación y resolución de problemas lógicos utilizando JavaScript. A través de la implementación de diversos ejercicios, los usuarios pueden mejorar sus habilidades en el manejo de lógica algorítmica y entender mejor cómo funciona el lenguaje de programación JavaScript en un entorno práctico.
-
-Este proyecto puede ser expandido en el futuro con la adición de ejercicios más complejos y funcionalidades que permitan una interacción más dinámica con el usuario. Además, la modularización y refactorización del código garantizarán que el proyecto sea más escalable y mantenible a largo plazo.
