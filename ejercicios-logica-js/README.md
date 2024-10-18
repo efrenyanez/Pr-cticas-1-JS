@@ -49,7 +49,7 @@ Para ejecutar los ejercicios:
 
 ---
 
-## 5. Configuración y Dependencias
+## 5. Configuración
 
 ### Requisitos Previos:
 - Un navegador web (Chrome, Firefox, etc.)
